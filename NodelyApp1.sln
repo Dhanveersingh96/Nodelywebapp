@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodelyApp1", "NodelyApp1.njsproj", "{F94AC5D5-81CE-4C94-B678-B603EB4BAC68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F94AC5D5-81CE-4C94-B678-B603EB4BAC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94AC5D5-81CE-4C94-B678-B603EB4BAC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94AC5D5-81CE-4C94-B678-B603EB4BAC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94AC5D5-81CE-4C94-B678-B603EB4BAC68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76FEDBEA-7115-41BD-8C03-1D1881EE9C58}
+	EndGlobalSection
+EndGlobal
